@@ -1,18 +1,19 @@
-<!--
 # UNITY KNOWLEDGE BASE
 
 #### C# FOUNDATIONS
-
-Variables
+Coming soon...
 
 ![](https://img.shields.io/badge/%E2%96%B2-TOP-lightgrey.svg?longCache=true&style=flat-square)
 ## UNITY SCRIPTING
+Coming soon...
+
 ![](https://img.shields.io/badge/%E2%96%B2-TOP-lightgrey.svg?longCache=true&style=flat-square)
 ## GAME RECIPES
+Coming soon...
+
 ![](https://img.shields.io/badge/%E2%96%B2-TOP-lightgrey.svg?longCache=true&style=flat-square)
 ## BEST PRACTICES
-Collaboration
+Coming soon...
 
 ![](https://img.shields.io/badge/%E2%96%B2-TOP-lightgrey.svg?longCache=true&style=flat-square)
 
--->
